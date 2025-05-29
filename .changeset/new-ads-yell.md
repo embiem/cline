@@ -2,4 +2,4 @@
 "claude-dev": minor
 ---
 
-Add newly formatted LS tool
+scroll to task timeline
